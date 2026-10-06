@@ -1,27 +1,30 @@
-# QAMP 2025 Cohort
+# QAMP 2026 Cohort
 
-This is the official repository for the QAMP 2025 cohort (October 2025 - January 2026) where projects and checkpoints are documented throughout the program.
+This is the official repository for the QAMP 2026 cohort (November 2026 - February 2027) where projects and checkpoints are documented throughout the program.
 
 _The administrators of this repo are Radha Pyari Sandhir (quantum-kittens) and Astri Cornish (Astri-Cornish)._
 
 ## What is QAMP?
 
-Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors. **It is an initiative within the [Qiskit advocate program](https://www.ibm.com/quantum/qiskit#advocates) designed to support growth and collaboration within our vibrant community.**
+Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Tier 1+ Qiskit advocates work on a 3-month projects under the guidance of mentors. **It is an initiative within the [Qiskit advocate program](https://www.ibm.com/quantum/qiskit#advocates) designed to support growth and collaboration within our vibrant community.**
 
-Access the QAMP information deck [here]([https://ibm.box.com/v/qamp2025_call](https://github.com/qiskit-advocate/qamp-2025/blob/main/QAMP_call.pdf)).
+Access the QAMP information deck [here]().
 
 *Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. **Mentees must be Qiskit advocates.**
 
 *Mentors* can expect to develop leadership and teamwork skills, while making a significant impact on the next generation of quantum developers and leaders.**Mentors do not have to be Qiskit advocates.**
 
-You can find information about the previous cohorts here:
-- [QAMP Spring 23](https://github.com/qiskit-advocate/qamp-spring-23)
-- [QAMP Fall 22](https://github.com/qiskit-advocate/qamp-fall-22)
-- [QAMP Spring 22](https://github.com/qiskit-advocate/qamp-spring-22)
-- [QAMP Fall 21](https://github.com/qiskit-advocate/qamp-fall-21)
-- [QAMP Spring 21](https://github.com/qiskit-advocate/qamp-spring-21)
+You can find project proposals from the previous cohort here: [QAMP 2025](https://github.com/qiskit-advocate/qamp-2025). To check out the final projects, join the ##qamp2025-open-house channel in the [Qiskit Slack](https://qisk.it/join-slack).
 
-## Application
+Projects from earlier cohorts:
+- [QAMP Spring 2023](https://github.com/qiskit-advocate/qamp-spring-23)
+- [QAMP Fall 2022](https://github.com/qiskit-advocate/qamp-fall-22)
+- [QAMP Spring 2022](https://github.com/qiskit-advocate/qamp-spring-22)
+- [QAMP Fall 2021](https://github.com/qiskit-advocate/qamp-fall-21)
+- [QAMP Spring 2021](https://github.com/qiskit-advocate/qamp-spring-21)
+
+
+## Mentee Application: For Tier 1+ Qiskit Advocates
 
 Link to the QAMP application form is shared in the the Qiskit Advocate Hub on Discord and the advocate-only spaces in Qiskit Slack.
 
@@ -29,12 +32,12 @@ Link to the QAMP application form is shared in the the Qiskit Advocate Hub on Di
 
 *Notes: dates are not finalized and subject to change.*
 
-- Application: September 2025
-- Mentor - mentee pairing: September - October
-- Kick-off: October 15 
-- Checkpoint 1: Mid-November
-- Checkpoint 2: Mid-December
-- Final showcase: End of January 2026
+- Application: October 2026
+- Mentor - mentee pairing: October - November
+- Kick-off: November 12
+- Checkpoint 1: Mid-December
+- Checkpoint 2: Mid-January
+- Final showcase: End of February 2026
 
 ## Commitment from mentees
 
@@ -62,16 +65,17 @@ During mentoring period (1-3 hours per week)
 - 30~60 min call every week or every 2 weeks
 - Attend checkpoints and final showcase calls
 
-Sign up to be a mentor at [ibm.biz/qamp2025-mentor](https://ibm.biz/qamp2025-mentor).
+Sign up to be a mentor at [ibm.biz/qamp2026-mentor](https://ibm.biz/qamp2026-mentor).
 
 
 ## Frequently Asked Questions
 
 #### Q: Who is eligible to apply?
-A: Participating in QAMP as a mentee is exclusive to Qiskit advocates. You need to become a Qiskit advocate to apply for the program. Read [here](https://www.ibm.com/quantum/community#advocates) for more information about how to become a Qiskit advocate. 
+A: Participating in QAMP as a mentee is exclusive to Tier 1+ Qiskit advocates.  
 
-Mentors do not need to be Qiskit advocates.
-
+Mentors can be:
+- Subject matter experts from IBM Quantum or an IBM Quantum Network member who have either worked in the project topic for 3+ years, and/or have a degree PhD+ in the topic, but who are not Qiskit advocates
+- Tier 1+ advocates who are subject matter experts in the project topic
 
 #### Q: How long is the mentorship program?
 A: The official mentoring period is 3 months. See [here](#important-dates) for the important dates.
@@ -80,12 +84,10 @@ A: The official mentoring period is 3 months. See [here](#important-dates) for t
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
 
 
-
-
 ### For prospective mentees:
 
 #### Q: Can mentees propose projects?
-A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2025/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
+A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2026/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
 
 #### Q: I don't have much programming experience, can I still apply?
 A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor. Some projects focus on supporting individuals to make their first PR to Qiskit or the Qiskit ecosystem. You may also apply to a project that is less focused on code (e.g., tutorial or blog writing).
@@ -100,7 +102,7 @@ A: Yes! The mentorship program is meant for developing your skills. Some project
 Time commitment varies across projects and is noted on each project issue. However, we expect QAMP to require approximately 4-8 hours of your time per week.
 
 #### Q: Is this program worth my time?
-In previous QAMP surveys, 90% of responding mentees agreed or strongly agreed that the program improved their quantum skills.​
+In the QAMP 2025 survey, 93% of responders agreed or strongly agreed that the program was worth their time.​
 
 ### For prospective mentors:
 
@@ -119,13 +121,13 @@ In previous QAMP surveys, 90% of responding mentees agreed or strongly agreed
 Being a mentor takes approximately 1-3 hours per week for the duration of the program, plus a couple of hours for the mentee matching process. During the program, you should meet with your mentees at a mutually agreed-upon frequency (usually weekly).
 
 #### Q:  Is this program worth my time?
-In previous QAMP surveys, 88% of responding mentors agreed or strongly agreed that the program was a worthwhile use of their time.​
+In the QAMP 2025 survey, 100% of responding mentors agreed or strongly agreed that the program was a worthwhile use of their time.​
 
 #### Q: Do I need to be a Qiskit advocate to be a QAMP mentor?
 No. 
 
 #### Q: By when should I propose a project? 
-Asap. Prospective mentee applications will be sent to you on a rolling basis from mid-September onwards. Proposal submissions close on 30 Sept.
+Asap. Prospective mentee applications will be sent to you on a rolling basis from application call announcement onwards. Proposal submissions close on INSERT DATE.
 
 ## Acknowledgement
 
