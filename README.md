@@ -23,6 +23,8 @@ Projects from earlier cohorts:
 - [QAMP Fall 2021](https://github.com/qiskit-advocate/qamp-fall-21)
 - [QAMP Spring 2021](https://github.com/qiskit-advocate/qamp-spring-21)
 
+Pro tip: look at previous projects to understand how to scope projects that will produce at the very least some minimal viable product (MVP) of a deliverable in 3 months.
+
 
 ## Mentee Application: For Tier 1+ Qiskit Advocates
 
@@ -124,10 +126,13 @@ Being a mentor takes approximately 1-3 hours per week for the duration of the pr
 In the QAMP 2025 survey, 100% of responding mentors agreed or strongly agreed that the program was a worthwhile use of their time.​
 
 #### Q: Do I need to be a Qiskit advocate to be a QAMP mentor?
-No. 
+No. However, please see the question "Q: Who is eligible to apply?" above to know if you are eligible.
 
 #### Q: By when should I propose a project? 
 Asap. Prospective mentee applications will be sent to you on a rolling basis from application call announcement onwards. Proposal submissions close on INSERT DATE.
+
+#### Q: How many projects can I mentor?
+One. Exceptions may be granted solely at the discretion of QAMP admins for very specific circumstances.
 
 ## Acknowledgement
 
