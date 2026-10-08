@@ -10,7 +10,7 @@ Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new cont
 
 Access the QAMP information deck [here]().
 
-*Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. **Mentees must be Qiskit advocates.**
+*Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. **Mentees must be Teir 1+ Qiskit advocates.**
 
 *Mentors* can expect to develop leadership and teamwork skills, while making a significant impact on the next generation of quantum developers and leaders.**Mentors do not have to be Qiskit advocates.**
 
@@ -64,7 +64,7 @@ During mentoring period (1-3 hours per week)
 - 3 month mentorship
 - Propose project ideas
 - Selecting mentees (estimated 2 hours to review applications)
-- 30~60 min call every week or every 2 weeks
+- 30~60 min call every week or every 2 weeks (at a mutually agreed-upon cadence)
 - Attend checkpoints and final showcase calls
 
 Sign up to be a mentor at [ibm.biz/qamp2026-mentor](https://ibm.biz/qamp2026-mentor).
@@ -73,11 +73,24 @@ Sign up to be a mentor at [ibm.biz/qamp2026-mentor](https://ibm.biz/qamp2026-men
 ## Frequently Asked Questions
 
 #### Q: Who is eligible to apply?
-A: Participating in QAMP as a mentee is exclusive to Tier 1+ Qiskit advocates.  
+A: Participating in QAMP as a mentee is exclusive to Tier 1+ Qiskit advocates. Exceptions to this may be granted solely on an invite-basis from QAMP admins. Please do not request an exception.
 
 Mentors can be:
 - Subject matter experts from IBM Quantum or an IBM Quantum Network member who have either worked in the project topic for 3+ years, and/or have a degree PhD+ in the topic, but who are not Qiskit advocates
 - Tier 1+ advocates who are subject matter experts in the project topic
+- Exceptions may be granted solely at the discretion of QAMP admins for very specific circumstances.
+
+#### Q: Who is eligible to apply?
+
+A: Only Qiskit advocates at Tier 1 or higher can join QAMP as mentees. QAMP admins may make exceptions, but only by invitation. Please do not request an exception.
+
+Mentors can be:
+
+- **IBM Quantum or IBM Quantum Network member subject matter experts** who are not Qiskit advocates. They must meet at least one of these:
+  - 3 or more years of work in the project topic
+  - A PhD or higher in the topic
+- **Qiskit advocates at Tier 1 or higher** who are subject matter experts in the project topic
+- Exceptions may be granted in very specific cases, solely at the discretion of QAMP admins. 
 
 #### Q: How long is the mentorship program?
 A: The official mentoring period is 3 months. See [here](#important-dates) for the important dates.
