@@ -76,7 +76,7 @@ Sign up to be a mentor at [ibm.biz/qamp2026-mentor](https://ibm.biz/qamp2026-men
 A: Participating in QAMP as a mentee is exclusive to Tier 1+ Qiskit advocates. Exceptions to this may be granted solely on an invite-basis from QAMP admins. Please do not request an exception.
 
 Mentors can be:
-- Subject matter experts from IBM Quantum or an IBM Quantum Network member who have either worked in the project topic for 3+ years, and/or have a degree PhD+ in the topic, but who are not Qiskit advocates
+- Subject matter experts from IBM Quantum or an IBM Quantum Network member who have either worked in the project topic for 3+ years, and/or are currently pursuing or have acquired a higher degree in the field PhD, but who are not Qiskit advocates
 - Tier 1+ advocates who are subject matter experts in the project topic
 - Exceptions may be granted solely at the discretion of QAMP admins for very specific circumstances.
 
