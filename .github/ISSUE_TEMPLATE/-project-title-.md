@@ -2,7 +2,7 @@
 name: "[Project Title]"
 about: 'Submit a project proposal for QAMP '
 title: ''
-labels: project-proposal
+labels: ''
 assignees: ''
 
 ---
@@ -12,7 +12,12 @@ assignees: ''
 ## Description
 *Provide a concise description of your project (2-3 paragraphs max). Keep in mind that QAMP runs for 3 months, so scope your project appropriately for this timeline.*
 
-*For project description examples, please see the project proposals from previous cohorts:*
+*For project description examples and inspiration, please see the project proposals from previous cohorts:*
+For inspiration, here are the projects from previous cohorts. 
+
+Project proposals from the previous cohort here: [QAMP 2025](https://github.com/qiskit-advocate/qamp-2025). To check out the final projects, join the [#]qamp2025-open-house channel in the Qiskit Slack.
+
+Projects from earlier cohorts: 
 - [QAMP Spring 2023](https://github.com/qiskit-advocate/qamp-spring-23/issues)
 - [QAMP Spring 2022](https://github.com/qiskit-advocate/qamp-spring-22/issues)
 - [QAMP Fall 2021](https://github.com/qiskit-advocate/qamp-fall-21/issues)
@@ -47,14 +52,16 @@ assignees: ''
 
 **Mentoring approach:** [Optional: Describe your mentoring style, availability, and expectations]
 
-### If you are a MENTEE seeking a mentor:
-**Type of mentor sought:** [Describe the ideal mentor's background, expertise, and experience level you're looking for]
+**Type of mentee sought:** [Describe the ideal mentee's background, skill level, and interests]
 
-**Desired mentoring style:** [Optional: Describe what kind of support and guidance you're hoping to receive]
+**Prerequisites:** [Any required knowledge, skills, or experience the mentee should have]
 
 <!-- Example:
-I am seeking a mentor with experience in _topic_ and _skills_. I would appreciate regular weekly check-ins and code reviews.
+I am looking for a mentee with basic Python programming skills and some familiarity with linear algebra. 
 -->
+
+**Number of mentees sought:** [Maximum number of mentees you'd be open to including in your group. ]
+
 
 ## Mentees
 
@@ -63,16 +70,17 @@ I am seeking a mentor with experience in _topic_ and _skills_. I would appreciat
 **GitHub:** [@your-github-username]  
 **What I do:** [Brief description of your background, current studies/work, and relevant experience - 2-3 sentences]
 
-**Learning goals:** [What you hope to achieve and learn through this project]
+**Type of mentor sought:** [Describe the ideal mentor's background, expertise, and experience level you're looking for]
 
-### If you are a MENTOR seeking a mentee:
-**Type of mentee sought:** [Describe the ideal mentee's background, skill level, and interests]
-
-**Prerequisites:** [Any required knowledge, skills, or experience the mentee should have]
+**Desired mentoring style:** [Optional: Describe what kind of support and guidance you're hoping to receive]
 
 <!-- Example:
-I am looking for a mentee with basic Python programming skills and some familiarity with linear algebra. 
+I am seeking a mentor with experience in _topic_ and _skills_. I would appreciate regular weekly check-ins and code reviews.
 -->
+
+**Learning goals:** [What you hope to achieve and learn through this project]
+
+**Number of additional mentees sought:** [Maximum number of other mentees you'd be open to including in your group. Write "NA. Solo Project." if you are doing this project solo.]
 
 ---
 
@@ -84,6 +92,8 @@ I am looking for a mentee with basic Python programming skills and some familiar
 ---
 
 Checklist after creating this issue:
-- [ ] Submit the [2025 Mentor Sign-up Form](https://airtable.com/appjU5TOUDYPwBIqO/pagKT6723KMerYQyc/form) if I am a mentor
+- [ ] Disable commenting on this issue until November 2 2026. 
+- [ ] Submit the [Project Proposal Form]()
+- [ ] Submit the [2026 Mentor Sign-up Form]() if I am a mentor
 OR
-- [ ] Submit the 2025 QAMP Application Form if I am a mentee (link in Slack and Discord)
+- [ ] Submit the 2026 QAMP Application Form if I am a mentee (link in Slack and Discord)
