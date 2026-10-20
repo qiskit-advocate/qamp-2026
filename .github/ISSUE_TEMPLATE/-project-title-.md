@@ -96,8 +96,7 @@ I am seeking a mentor with experience in _topic_ and _skills_. I would appreciat
 ---
 
 Checklist after creating this issue:
-- [ ] Disable commenting on this issue until November 2 2026. 
-- [ ] Submit the [Project Proposal Form]()
-- [ ] Submit the [2026 Mentor Sign-up Form]() if I am a mentor
+- [ ] Submit the [Project Proposal Form]((link in [#qamp-announcements](https://discord.com/channels/1275388429231984640/1560228453075263528/1562048592775221381) channel in Discord))
+- [ ] Submit the 2026 Mentor Sign-up Form if I am a mentor (link in the [#qamp-announcements](https://discord.com/channels/1275388429231984640/1560228453075263528/1562048592775221381) channel on Discord)
 OR
-- [ ] Submit the 2026 QAMP Application Form if I am a mentee (link in Slack and Discord)
+- [ ] Submit the 2026 QAMP Application Form if I am a mentee (link in the [#qamp-announcements](https://discord.com/channels/1275388429231984640/1560228453075263528/1562048592775221381) channel on Discord)
