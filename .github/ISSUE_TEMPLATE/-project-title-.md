@@ -10,10 +10,10 @@ assignees: ''
 # QAMP Project Proposal: [Project Title]
 
 ## Description
-*Provide a concise description of your project (2-3 paragraphs max). Keep in mind that QAMP runs for 3 months, so scope your project appropriately for this timeline.*
+<!-- *Provide a concise description of your project (2-3 paragraphs max). Keep in mind that QAMP runs for 3 months, so scope your project appropriately for this timeline.*
 
 *For project description examples and inspiration, please see the project proposals from previous cohorts:*
-For inspiration, here are the projects from previous cohorts. 
+
 
 Project proposals from the previous cohort here: [QAMP 2025](https://github.com/qiskit-advocate/qamp-2025). To check out the final projects, join the [#]qamp2025-open-house channel in the Qiskit Slack.
 
@@ -22,10 +22,13 @@ Projects from earlier cohorts:
 - [QAMP Spring 2022](https://github.com/qiskit-advocate/qamp-spring-22/issues)
 - [QAMP Fall 2021](https://github.com/qiskit-advocate/qamp-fall-21/issues)
 - [QAMP Spring 2021](https://github.com/qiskit-advocate/qamp-spring-21/issues)
-
+-->
 
 ## Deliverables
-*List the expected outcomes and deliverables for this project. Consider including both primary deliverables and a minimal viable project (MVP) in case the full scope cannot be completed within 3 months.*
+The expected outcomes and deliverables for this project.
+
+<!--*List the expected outcomes and deliverables for this project. Consider including both primary deliverables and a minimal viable project (MVP) in case the full scope cannot be completed within 3 months.*
+-->
 
 **Primary Deliverables:**
 - [ ] 
@@ -35,13 +38,14 @@ Projects from earlier cohorts:
 **Minimal Viable Product (MVP):**
 - [ ] 
 
-**Examples of deliverables include:**
+<!--**Examples of deliverables include:**
 - Interactive Jupyter notebooks with tutorials
 - Research paper or technical report
 - Open-source application or tool
 - Comprehensive documentation
 - Blog posts or educational content
 - Benchmarking results and analysis
+-->
 
 ## Mentors
 
