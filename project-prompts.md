@@ -1,10 +1,10 @@
-### Interested in getting involved in QAMP 2025 but unable to think of a project proposal?
+### Interested in getting involved in QAMP 2026 but unable to think of a project proposal?
 
 **Here are some categories and examples to help get you started:**
 
 - **Research-oriented projects:** Dive into the forefront of quantum computing, exploring areas such as quantum error correction, quantum machine learning, or quantum cryptography. QAMP offers a risk-free environment to test your innovative ideas and experiment with solutions, especially for complex or difficult problems such as encoding a problem into a quantum circuit.
 
-- **Improve the developer experience:** Design tools or libraries that simplify the use or integration of quantum algorithms and make quantum programming more accessible to a broader audience. This could also include contributing to the 'Rustification' of Qiskit (see [this article](https://medium.com/qiskit/new-weve-started-using-rust-in-qiskit-for-better-performance-a3676433ca8c) for more info) and improving the performance of some component in Qiskit, or even debugging and benchmarking. 
+- **Improve the developer experience:** Design tools or libraries that simplify the use or integration of quantum algorithms and make quantum programming more accessible to a broader audience. This could also include improving the performance of some component in Qiskit, or even debugging and benchmarking. 
 
 - **Update applications, packages, projects, and past Qiskit coding exercises:** With the release of Qiskit version 2 in 2025, many projects built with Qiskit need updating to be compatible with Qiskit v2.x. This is an ideal project topic for beginners wanting to learn how to make their first PR. See the [Qiskit Ecosystem](https://www.ibm.com/quantum/ecosystem) for a list of projects that are built using Qiskit and [Qiskit community](https://github.com/qiskit-community) for past QGSS and IBM Quantum Challenges.
 
