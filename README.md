@@ -10,7 +10,7 @@ Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new cont
 
 Access the QAMP information deck [here]().
 
-*Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. **Mentees must be Teir 1+ Qiskit advocates.**
+*Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. **Mentees must be Tier 1+ Qiskit advocates.**
 
 *Mentors* can expect to develop leadership and teamwork skills, while making a significant impact on the next generation of quantum developers and leaders.**Mentors do not have to be Qiskit advocates.**
 
