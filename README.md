@@ -36,7 +36,8 @@ Link to the QAMP application form is shared in the the Qiskit Advocate Hub on Di
 
 - Application: October 2026
 - Mentor - mentee pairing: October - November
-- Kick-off: November 12
+- Project proposal and application deadline: 15 November, anywhere on Earth
+- Kick-off: November 17
 - Checkpoint 1: Mid-December
 - Checkpoint 2: Mid-January
 - Final showcase: End of February 2026
