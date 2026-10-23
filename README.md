@@ -142,7 +142,7 @@ In the QAMP 2025 survey, 100% of responding mentors agreed or strongly agreed t
 No. However, please see the question "Q: Who is eligible to apply?" above to know if you are eligible.
 
 #### Q: By when should I propose a project? 
-Asap. Prospective mentee applications will be sent to you on a rolling basis from application call announcement onwards. Proposal submissions close on INSERT DATE.
+Asap. Prospective mentee applications will be sent to you on a rolling basis from application call announcement onwards. Proposal submissions close on 15 November, anywhere on Earth.
 
 #### Q: How many projects can I mentor?
 One. Exceptions may be granted solely at the discretion of QAMP admins for very specific circumstances.
